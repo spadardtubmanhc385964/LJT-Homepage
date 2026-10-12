@@ -41,9 +41,7 @@ Since February 2025 I have been a Research Intern at MINIMAX. I was previously a
   * Machine Learning
   * LLM Reasoning
   * Reinforcement Learning
-  * Vision-Language Models (VLM)
-    * Hallucination in Vision-Language Models
-    * Chart Understanding
+  * Hallucination in Vision-Language Models (VLM)
   * LLM Truthfulness
   * Interpretability
 
